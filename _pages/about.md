@@ -13,7 +13,7 @@ comments: false
 	</div>
 	<div class="col-md-4">
 		<div class="sticky-top sticky-top-80">
-			<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-danger">Localización</a>
+			<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-info">Localización</a>
 			<a target="_blank" href="https://lordpedal.github.io" class="btn btn-warning">Lordpedal <i class="fab fa-github"></i></a>
 		</div>
 	</div>
