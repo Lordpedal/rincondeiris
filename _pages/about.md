@@ -8,27 +8,20 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>En un momento difícil de mi vida me entere que estaba embarazada, y tras el período de embarazo llego mi gran ilusión, mi pequeña Iris. Este gran regalo de vida me invito a iniciar este humilde espacio en la red. Un espacio donde poder crear proyectos acompañada de una aguja, tijeras e hilo. Tan solo debemos de tener presente, que en algún momento de nuestras vidas siempre tendremos un momento de bello arcoiris, por eso desde aquí os quiero aconsejar que disfrutéis de esos momentos memorables y especiales.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.png" alt="Un espacio creativo y personalizado" /></p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Créditos</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>... la culminación de un fin es el comienzo de una realidad.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-danger">Localización</a>
 
 </div>
 </div>
