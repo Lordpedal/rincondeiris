@@ -20,8 +20,7 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Créditos</h5>
 
-<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-danger">Localización</a>
-
+<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-danger">Localización</a> <a target="_blank" href="https://lordpedal.github.io" class="btn btn-warning">Lordpedal <i class="fab fa-github"></i></a>
 </div>
 </div>
 </div>
