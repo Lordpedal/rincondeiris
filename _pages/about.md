@@ -20,8 +20,6 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Créditos</h5>
 
-<p>... la culminación de un fin es el comienzo de una realidad.</p>
-
 <a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-danger">Localización</a>
 
 </div>
