@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-permalink: /acercade
+permalink: /about
 comments: false
 ---
 
