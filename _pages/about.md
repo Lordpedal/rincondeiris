@@ -2,12 +2,6 @@
 layout: page
 title: Acerca de
 permalink: /about
-author: viroga
-rating: 5
-categories: [ personal ]
-tags: [ rainbow ]
-featured: true
-hidden: true
 comments: false
 ---
 
