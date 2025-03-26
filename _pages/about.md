@@ -2,6 +2,8 @@
 layout: page
 title: Acerca de
 permalink: /about
+author: viroga
+rating: 5
 comments: false
 ---
 
@@ -12,6 +14,7 @@ comments: false
 	</div>
 	<div class="col-md-4">
 		<div class="sticky-top sticky-top-80">
+			<p>DISEÑO</p>
 			<a target="_blank" href="https://goo.gl/maps/CecKW6yDBuQc9R9JA" class="btn btn-warning">Localización</a>
 			<a target="_blank" href="https://lordpedal.github.io" class="btn btn-success">Lordpedal <i class="fab fa-github"></i></a>
 		</div>
