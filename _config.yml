@@ -4,7 +4,8 @@ title: "Rincón de Iris"
 description: "Un espacio creativo y personalizado"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://rincondeiris.club/"
+url: "https://rincondeiris.club"
+baseurl: ""
 #url: "https://lordpedal.github.io/"
 #baseurl: "/rincondeiris"
 #google_analytics: 'UA-46278016-1'
@@ -19,7 +20,7 @@ authors:
     name: Virginia
     display_name: Virginia
     avatar: 'assets/images/avatar.png'
-    email: viroga81@gmail.com
+    email: viroga81@rincondeiris.club
     web: https://rincondeiris.club
     instagram: https://www.instagram.com/rincondeiris.club/
     facebook: https://www.facebook.com/people/Virginia-Romero/100037254002016
@@ -42,7 +43,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 3
 paginate_path: /page:num/
     
 # Other
