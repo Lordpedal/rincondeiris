@@ -16,7 +16,9 @@
 
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
-<link href="/assets/css/lightbox.css" rel="stylesheet">
+{% if site.lightbox %}
+  <link rel="stylesheet" href="/assets/css/lightbox.css">
+{% endif %}
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
@@ -198,10 +200,6 @@ ga('send', 'pageview');
 
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
-
-{% if site.lightbox == "enabled" %}
-<script src="/assets/js/lightbox.js"></script>
 {% endif %}
 
 </body>
