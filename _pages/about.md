@@ -12,6 +12,7 @@ comments: false
 		<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/avatar.png" align="center" alt="Un espacio creativo y personalizado" /></p>
 		![Un espacio creativo y personalizado]({{site.baseurl}}/assets/images/avatar.png){: .center-image }
 		![Un espacio creativo y personalizado]({{site.baseurl}}/assets/images/avatar.png){: .center-image .shadow-lg }
+		![center-aligned-image](/assets/images/avatar.png){: .align-center}
 	</div>
 	<div class="col-md-4">
 		<div class="sticky-top sticky-top-80">
