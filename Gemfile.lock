@@ -78,7 +78,6 @@ DEPENDENCIES
   kramdown
   rouge
   jemoji
-  jekyll-loading-lazy
 
 BUNDLED WITH
    2.2.2
