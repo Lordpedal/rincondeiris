@@ -5,11 +5,10 @@ permalink: /about
 comments: false
 ---
 
-![Avatar](/assets/images/avatar.png){:style="margin-left:auto"}
 
 Gracias a mi pequeña **Iris**, decidí crear un espacio donde poder compartir pequeños proyectos, acompañada de una aguja, tijeras e hilo.
 
-![Avatar](/assets/images/avatar.png){:style="margin-right:auto"}
+![Avatar](/assets/images/avatar.png){:style="display:table-cell; height="300"; text-align="center"; width="300"; vertical-align="middle"}
 
 Ante todo ser bienvenidos, espero disfruteís de este pequeño y humilde rincón en la web.
 
