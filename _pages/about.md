@@ -5,7 +5,7 @@ permalink: /about
 comments: false
 ---
 
-![Avatar](/assets/images/avatar.png){:style="float:left; margin-right 1em"}
+![Avatar](/assets/images/avatar.png){:style="float:right; height=50%; width=50%; margin-left=1em"}
 
 Gracias a mi pequeña **Iris**, decidí crear un espacio donde poder compartir pequeños proyectos, acompañada de una aguja, tijeras e hilo.
 
